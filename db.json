@@ -2,33 +2,20 @@
   "info":[
     {
       "id" : 0,
-      "name": "First post!",
-      "surname" : "My first content!",
-      "info" : "My first content!"
+      "name": "Я СОБАКА"
     },
     {
       "id" : 1,
-      "name": "Siarhei",
-      "surname" : "Rachytski",
-      "info" : "It's me"
+      "name": "Я ХОМЯК"
+
     },
     {
       "id" : 2,
-      "name": "Aleksei",
-      "surname" : "Korsak",
-      "info" : "My teammate"
+      "name": "Я ШЛЁПА"
     },
     {
       "id" : 3,
-      "name": "Ihar and Volha",
-      "surname" : "Rachytskiye",
-      "info" : "My family"
-    },
-    {
-      "id" : 4,
-      "name": "Rait",
-      "surname" : "",
-      "info" : "My dog"
+      "name": "Я БЭБРА"
     }
   ]
 }
